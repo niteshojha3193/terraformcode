@@ -3,3 +3,10 @@ resource "azurerm_resorce_group" "rg" {
     location = "eastus"
   
 }
+
+
+resource "azurerm_resorce_group" "rg" {
+    name= "nitesh"
+    location = "eastus"
+  
+}
